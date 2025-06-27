@@ -8,7 +8,7 @@
 
 ### 🔍 About Me
 
-I’m passionate about developing scalable systems that bridge research and industry. From predicting machine failures across 1.2M assets at Caterpillar, to real-time photo recognition analyses at USGS — I thrive at the intersection of data, software, and impact.
+I’m passionate about developing scalable systems that bridge research and industry. I am comfortable building full-stack applications, prediction modeling, and most all things data science related!
 
 for freelance work? feel free to [email](mailto:nimishm2@illinois.edu) :)
 
